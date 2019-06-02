@@ -194,7 +194,7 @@
             "Key": "a89dea1b-fb29-47c0-93ce-cd885d432380",
             "Value": {
                 "id": "dd1573bf-dd53-4d31-910c-1fc53735fc6b",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\Spieler\\Spieler.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -236,6 +236,14 @@
                 "id": "50e52571-1cd1-416e-8343-00f0156370f3",
                 "resourcePath": "views\\d3b088c9-7a21-4ff2-b3c9-2a59a04ee631.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d5b19455-07b2-4084-a188-6013a7ba0338",
+            "Value": {
+                "id": "78766d11-c1ee-4188-9aa6-2477cbc4bc29",
+                "resourcePath": "sprites\\Block\\Block.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
