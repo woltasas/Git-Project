@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "Raum1",
     "id": "8bb60bff-f5d3-47a5-a5f9-d17dc8e59615",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -43,14 +43,14 @@
             "id": "1c2cc438-7a67-41f3-9148-50453a0159fe",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": false,
+            "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -62,13 +62,13 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "d5b19455-07b2-4084-a188-6013a7ba0338",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
-            "vtiled": false,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "e098b81f-9372-4eb9-b2f1-7591f3eb7235",
-        "Height": 768,
+        "Height": 600,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 800
     },
     "mvc": "1.0",
     "views": [
